@@ -157,10 +157,10 @@
 
 <div align="center">
   <a href="https://github.com/abhaysh3101">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhaysh3101&show_icons=true&hide_border=true&theme=dark&title_color=20C20E&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="Abhay's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhaysh3101&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=7200" alt="Abhay's GitHub Stats"/>
   </a>
   <a href="https://github.com/abhaysh3101">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhaysh3101&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=20C20E&langs_count=8&layout=compact&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysh3101&theme=tokyonight&langs_count=8&layout=compact&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
   </a>
 </div>
 
@@ -168,7 +168,7 @@
 
 <div align="center">
   <a href="https://github.com/abhaysh3101">
-    <img width="70%" src="https://github-readme-streak-stats-virresh.vercel.app/?user=abhaysh3101&show_icons=true&theme=dark&hide_border=true&background=000000&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="Abhay's GitHub Streak"/>
+    <img width="70%" src="https://streak-stats.demolab.com?user=abhaysh3101&theme=tokyonight&hide_border=true" alt="Abhay's GitHub Streak"/>
   </a>
 </div>
 
@@ -176,10 +176,9 @@
 
 <div align="center">
   <a href="https://github.com/abhaysh3101">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhaysh3101&theme=darkhub&no-frame=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=abhaysh3101&theme=tokyonight&no-frame=true&margin_w=15" alt="GitHub Trophies"/>
   </a>
 </div>
-
 </details>
 
 ---
