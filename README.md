@@ -39,10 +39,10 @@
 
 <div align="center">
   <h1>Hi there, I'm Abhay Sharma 👋</h1>
-  <p><b>Full Stack Web Developer &bull; Competitive Programmer</b></p>
+  <p><b>Full Stack Web Developer &bull; AI Enthusiast &bull; Problem Solver</b></p>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Enthusiast;Problem+Solver+%26+Competitive+Coder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Architect;Exploring+Generative+AI+%26+LLMs;Active+Competitive+Programmer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -62,47 +62,56 @@
 ### 👨‍💻 About Me
 
 - 🌐 Based in **India**
-- 🌱 Currently diving deep into **Next.js & Full Stack Architecture**
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
-- ⚡ Fun fact: **Turning coffee into functional full-stack apps**
+- 🌱 Currently mastering **Next.js**, **Full Stack Architecture**, and **AI Integration**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Prompt Engineering**
+- ⚡ Fun fact: **Turning ideas into scalable, full-stack applications**
 
 ---
 
 <div align="center">
 
-### 🏆 Coding Profiles & Stats
+### 🏆 Coding Profiles & Problems Solved
 
-<a href="https://leetcode.com/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://codeforces.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-<a href="https://www.codechef.com/users/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<!-- Quick Profile Links with Real-Time Badges -->
+<a href="https://leetcode.com/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a1a&color=FFA116&label=LeetCode%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay_9839&logo=leetcode" alt="LeetCode Solved" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.codechef.com/users/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://codeforces.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Solved-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 
 <br/><br/>
 
-<!-- Real-Time Question Solved Cards -->
+<!-- Detailed Problem Solving Breakdown Cards -->
 <a href="https://leetcode.com/abhay_9839" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/abhay_9839?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Solved Stats" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/abhay_9839?theme=dark&font=Fira%20Code" alt="LeetCode Card" width="48%" />
 </a>
 <a href="https://codeforces.com/profile/abhay_9839" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abhay_9839&theme=tokyonight" alt="Codeforces Solved Stats" width="49%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abhay_9839&theme=tokyonight" alt="Codeforces Card" width="48%" />
 </a>
 
 <br/><br/>
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & AI Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,git,github,postman,vscode&perline=8" alt="Tech Stack" />
+<!-- Core Development Stack -->
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,java,tailwind,bootstrap,git,github,postman,vscode&perline=7" alt="Tech Stack" />
 
 <br/><br/>
 
-### 📊 GitHub Activity
+<!-- AI & Intelligence Badges -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+
+<br/><br/>
+
+### 📊 GitHub Activity & Metrics
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhay31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Abhay31&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Abhay31&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-virresh.vercel.app?user=Abhay31&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 
 </div>
