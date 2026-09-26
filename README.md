@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://twitter.com/abhaysh3101" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
-  <a href="https://linkedin.com/in/abhaysharma31" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
+  <a href="https://linkedin.com/in/abhaysh3101" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
   <div align="center"
        
   <a href="https://www.codechef.com/users/abhay_9839" target="blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
