@@ -47,18 +47,10 @@
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/abhaysh3101" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/abhaysh3101" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:abhaysh3101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://drive.google.com/file/d/1VEq-O4FxQJ0nMSMhpl7v6-uQRujTEwF3/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
+  <a href="https://linkedin.com/in/abhaysh3101" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/abhaysh3101" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:abhaysh3101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1VEq-O4FxQJ0nMSMhpl7v6-uQRujTEwF3/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
 
   <br/><br/>
 
@@ -78,22 +70,22 @@
 
 <div align="center">
 
-### 🏆 Coding Profiles
+### 🏆 Coding Profiles & Stats
 
+<a href="https://leetcode.com/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://www.codechef.com/users/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+
+<br/><br/>
+
+<!-- Real-Time Question Solved Cards -->
 <a href="https://leetcode.com/abhay_9839" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://leetcard.jacoblin.cool/abhay_9839?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Solved Stats" width="49%" />
 </a>
 <a href="https://codeforces.com/profile/abhay_9839" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<a href="https://www.codechef.com/users/abhay_9839" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-<a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abhay_9839&theme=tokyonight" alt="Codeforces Solved Stats" width="49%" />
 </a>
 
 <br/><br/>
@@ -104,9 +96,13 @@
 
 <br/><br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="46%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhay31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Abhay31&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Abhay31&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 
 </div>
