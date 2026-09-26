@@ -113,8 +113,8 @@
         <code><a href="https://github.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"></a></code>
         <code><a href="https://www.postman.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></a></code>
         <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></a></code>
-        <code><a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a></code>
-        <code><a href="https://gemini.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a></code>
+        <code><a href="https://openai.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI"></a></code>
+        <code><a href="https://gemini.google.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" alt="Google Gemini"></a></code>
       </p>
     </td>
   </tr>
