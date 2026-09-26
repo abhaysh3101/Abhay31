@@ -75,50 +75,96 @@
 ---
 
 <details open>
+
 <summary>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technology Stack</b>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technology Stack</b>
+
 </summary>
+
 <br>
 
+
+
 <table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Languages & Core</h4>
-      <p>
-        <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></a></code>
-        <code><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"></a></code>
-        <code><a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></a></code>
-        <code><a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a></code>
-      </p>
-      <h4>Frontend & UI</h4>
-      <p>
-        <code><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"></a></code>
-        <code><a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" style="background: #ffffff; border-radius: 4px;" alt="Next.js"></a></code>
-        <code><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"></a></code>
-        <code><a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap"></a></code>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Backend & Databases</h4>
-      <p>
-        <code><a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></a></code>
-        <code><a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"></a></code>
-        <code><a href="https://mongodb.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></a></code>
-        <code><a href="https://mysql.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></a></code>
-        <code><a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></a></code>
-      </p>
-      <h4>Tools & AI Integration</h4>
-      <p>
-        <code><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></a></code>
-        <code><a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"></a></code>
-        <code><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></a></code>
-        <code><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></a></code>
-        <code><a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"></a></code>
-        <code><a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://img.shields.io/badge/Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini"></a></code>
-      </p>
-    </td>
-  </tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+<h4>Languages & Core</h4>
+
+<p>
+
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></a></code>
+
+<code><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"></a></code>
+
+<code><a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></a></code>
+
+<code><a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a></code>
+
+</p>
+
+<h4>Frontend & UI</h4>
+
+<p>
+
+<code><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"></a></code>
+
+<code><a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></a></code>
+
+<code><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"></a></code>
+
+<code><a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></a></code>
+
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+<h4>Backend & Databases</h4>
+
+<p>
+
+<code><a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></a></code>
+
+<code><a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></a></code>
+
+<code><a href="https://mongodb.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></a></code>
+
+<code><a href="https://mysql.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></a></code>
+
+<code><a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></a></code>
+
+</p>
+
+<h4>Tools & AI Integration</h4>
+
+<p>
+
+<code><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></a></code>
+
+<code><a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"></a></code>
+
+<code><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></a></code>
+
+<code><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></a></code>
+
+<code><a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI"></a></code>
+
+<code><a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" alt="Google Gemini"></a></code>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
+
+
 
 </details>
 <details open>
