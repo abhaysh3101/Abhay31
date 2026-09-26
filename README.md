@@ -39,7 +39,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhay Sharma</h1>
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&width=550&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Architect;Generative+AI+%26+LLM+Explorer;Competitive+Programmer"></a>
+  <a href="https://readme-typing-svg.demolab.com" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&width=550&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Architect;Generative+AI+%26+LLM+Explorer;Competitive+Programmer"></a>
 </p>
 
 <table width="100%" border="0" style="border: none; padding: 10px;">
@@ -65,12 +65,12 @@
 
 ### About Me 🧑
 
-- 🌐 Check out my personal projects: <a href="https://abhay-sharma-portfolio.web.app/" target="_blank"><b>Portfolio Website 🌐</b></a>
+- 🌐 Check out my personal projects: <a href="https://abhay-sharma-portfolio.web.app/" target="_blank" rel="noopener noreferrer"><b>Portfolio Website 🌐</b></a>
 - 🚀 Full-Stack Developer specializing in modern JavaScript/TypeScript ecosystems
 - 🔭 Currently building with **Next.js**, **MERN Stack**, and exploring **LLM APIs**
 - 💡 Passionate about Problem Solving, Data Structures, and Clean Code Architecture
 - 👯 Open to collaborations on Full-Stack, Open Source, and AI-driven projects
-- 📄 View my experience: <a href="https://drive.google.com/file/d/1VEq-O4FxQJ0nMSMhpl7v6-uQRujTEwF3/view?usp=sharing" target="_blank"><b>Resume 🔗</b></a>
+- 📄 View my experience: <a href="https://drive.google.com/file/d/1VEq-O4FxQJ0nMSMhpl7v6-uQRujTEwF3/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>Resume 🔗</b></a>
 
 ---
 
@@ -85,36 +85,36 @@
     <td valign="top" width="50%">
       <h4>Languages & Core</h4>
       <p>
-        <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></a></code>
-        <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"></a></code>
-        <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></a></code>
-        <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a></code>
+        <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></a></code>
+        <code><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"></a></code>
+        <code><a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></a></code>
+        <code><a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a></code>
       </p>
       <h4>Frontend & UI</h4>
       <p>
-        <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"></a></code>
-        <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></a></code>
-        <code><a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"></a></code>
-        <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></a></code>
+        <code><a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"></a></code>
+        <code><a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></a></code>
+        <code><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"></a></code>
+        <code><a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></a></code>
       </p>
     </td>
     <td valign="top" width="50%">
       <h4>Backend & Databases</h4>
       <p>
-        <code><a href="https://nodejs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></a></code>
-        <code><a href="https://expressjs.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></a></code>
-        <code><a href="https://mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></a></code>
-        <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></a></code>
-        <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></a></code>
+        <code><a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></a></code>
+        <code><a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></a></code>
+        <code><a href="https://mongodb.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></a></code>
+        <code><a href="https://mysql.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></a></code>
+        <code><a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></a></code>
       </p>
       <h4>Tools & AI Integration</h4>
       <p>
-        <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></a></code>
-        <code><a href="https://github.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"></a></code>
-        <code><a href="https://www.postman.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></a></code>
-        <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></a></code>
-        <code><a href="https://openai.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI"></a></code>
-        <code><a href="https://gemini.google.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" alt="Google Gemini"></a></code>
+        <code><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></a></code>
+        <code><a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"></a></code>
+        <code><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></a></code>
+        <code><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></a></code>
+        <code><a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="OpenAI"></a></code>
+        <code><a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlegemini.svg" alt="Google Gemini"></a></code>
       </p>
     </td>
   </tr>
@@ -129,20 +129,20 @@
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/abhay_9839" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/abhay_9839" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/abhay_9839" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/abhay_9839" target="_blank">
+  <a href="https://leetcode.com/abhay_9839" target="_blank" rel="noopener noreferrer">
     <img src="https://leetcard.jacoblin.cool/abhay_9839?theme=dark&font=Fira%20Code" alt="LeetCode Stats" width="48%" />
   </a>
-  <a href="https://codeforces.com/profile/abhay_9839" target="_blank">
+  <a href="https://codeforces.com/profile/abhay_9839" target="_blank" rel="noopener noreferrer">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abhay_9839&theme=tokyonight" alt="Codeforces Stats" width="48%" />
   </a>
 </div>
@@ -158,10 +158,10 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/abhaysh3101">
+  <a href="https://github.com/abhaysh3101" target="_blank" rel="noopener noreferrer">
     <img height="175em" src="https://readme-stats-github.pages.dev/api?username=abhaysh3101&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Abhay's GitHub Stats"/>
   </a>
-  <a href="https://github.com/abhaysh3101">
+  <a href="https://github.com/abhaysh3101" target="_blank" rel="noopener noreferrer">
     <img height="175em" src="https://readme-stats-github.pages.dev/api/top-langs?username=abhaysh3101&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
@@ -169,7 +169,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/abhaysh3101">
+  <a href="https://github.com/abhaysh3101" target="_blank" rel="noopener noreferrer">
     <img width="85%" src="https://streak-stats.demolab.com?user=abhaysh3101&theme=tokyonight&hide_border=true" alt="Abhay's GitHub Streak"/>
   </a>
 </div>
@@ -177,7 +177,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/abhaysh3101">
+  <a href="https://github.com/abhaysh3101" target="_blank" rel="noopener noreferrer">
     <img width="85%" src="https://activity-graph.vercel.app/graph?username=abhaysh3101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
   </a>
 </div>
@@ -188,19 +188,19 @@
 <div align="center">
   <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhhNTY0MmQwMDNmNDQ0MWYwNGYwODI3ZDNkODU1MGM5OWFkYTQxYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jnhXd7KT8UTk5WIgiV/giphy.gif" width="30px"> Connect With Me </h3>
 
-  <a href="https://abhay-sharma-portfolio.web.app/" target="_blank">
+  <a href="https://abhay-sharma-portfolio.web.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/abhaysh3101" target="_blank">
+  <a href="https://linkedin.com/in/abhaysh3101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abhaysh3101@gmail.com" target="_blank">
+  <a href="mailto:abhaysh3101@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/abhaysh3101" target="_blank">
+  <a href="https://twitter.com/abhaysh3101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/abhaysh3101" target="_blank">
+  <a href="https://github.com/abhaysh3101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -212,5 +212,5 @@
 
 <br>
 <div align="center">
-  <p>Built by <a href="https://github.com/abhaysh3101">Abhay Sharma</a></p>
+  <p>Built by <a href="https://github.com/abhaysh3101" target="_blank" rel="noopener noreferrer">Abhay Sharma</a></p>
 </div>
