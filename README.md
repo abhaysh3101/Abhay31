@@ -65,6 +65,7 @@
 
 ### About Me 🧑
 
+- 🌐 Check out my personal projects: <a href="https://abhay-sharma-portfolio.web.app/" target="_blank"><b>Portfolio Website 🌐</b></a>
 - 🚀 Full-Stack Developer specializing in modern JavaScript/TypeScript ecosystems
 - 🔭 Currently building with **Next.js**, **MERN Stack**, and exploring **LLM APIs**
 - 💡 Passionate about Problem Solving, Data Structures, and Clean Code Architecture
@@ -186,6 +187,9 @@
 <div align="center">
   <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhhNTY0MmQwMDNmNDQ0MWYwNGYwODI3ZDNkODU1MGM5OWFkYTQxYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jnhXd7KT8UTk5WIgiV/giphy.gif" width="30px"> Connect With Me </h3>
 
+  <a href="https://abhay-sharma-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/abhaysh3101" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
