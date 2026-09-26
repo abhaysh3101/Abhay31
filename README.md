@@ -47,6 +47,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,react,js,bootstrap,css,tailwind,discord,express,firebase,git,github,html,jquery,nextjs,mongodb,postman,nodejs,netlify,vscode&perline=9">
+  <img src="https://skillicons.dev/icons?i=java,react,js,bootstrap,css,tailwind,discord,express,firebase,git,github,html,jquery,nextjs,mongodb,mysql,postman,nodejs,netlify,vscode,openai,gemini&perline=9">
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&show_icons=true&locale=en&layout=compact" alt="Abhay31" /></p>
