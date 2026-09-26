@@ -38,12 +38,15 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&show_icons=true&locale=en&layout=compact" alt="Abhay31" /></p> -->
 
 <div align="center">
+  <h1>Hi there, I'm Abhay Sharma 👋</h1>
+  <p><b>Full Stack Web Developer &bull; Competitive Programmer</b></p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Enthusiast;Problem+Solver+%26+Competitive+Coder" alt="Typing SVG" />
+  </a>
 
-# Hi there, I'm Abhay Sharma 👋
+  <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Enthusiast;Problem+Solver+%26+Competitive+Programmer)](https://git.io/typing-svg)
-
-<p align="center">
   <a href="https://linkedin.com/in/abhaysh3101" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -51,27 +54,59 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:abhaysh3101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://drive.google.com/file/d/1VEq-O4FxQJ0nMSMhpl7v6-uQRujTEwF3/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
+  <br/><br/>
 
+  <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-```javascript
-const abhay = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    currentFocus: ["Next.js", "Full-Stack Architecture", "DSA"],
-    coreStack: ["React", "Node.js", "Express", "MongoDB"],
-    askMeAbout: ["MERN Stack", "System Design Basics", "RESTful APIs"],
-    funFact: "Turning caffeine into clean commits."
-};
+- 🌐 Based in **India**
+- 🌱 Currently diving deep into **Next.js & Full Stack Architecture**
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- ⚡ Fun fact: **Turning coffee into functional full-stack apps**
+
+---
+
+<div align="center">
+
+### 🏆 Coding Profiles
+
+<a href="https://leetcode.com/abhay_9839" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://codeforces.com/profile/abhay_9839" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="https://www.codechef.com/users/abhay_9839" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+<a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+</a>
+
+<br/><br/>
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,firebase,git,github,postman,vscode&perline=8" alt="Tech Stack" />
+
+<br/><br/>
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="46%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
+
+</div>
