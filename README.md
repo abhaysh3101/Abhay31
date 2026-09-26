@@ -5,7 +5,7 @@
 
 <h4 align="center">A passionate Full Stack Web Developer from India</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20views&color=0e75b6&style=flat" alt="Abhay31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysh3101&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysh3101" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -35,7 +35,7 @@
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=java,react,js,bootstrap,css,tailwind,discord,express,firebase,git,github,html,jquery,nextjs,mongodb,mysql,postman,nodejs,netlify,vscode,chatgpt&perline=9">
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&show_icons=true&locale=en&layout=compact" alt="Abhay31" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysh3101&show_icons=true&locale=en&layout=compact" alt="abhaysh3101" /></p> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhay Sharma</h1>
 <p align="center">
@@ -156,27 +156,27 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Abhay31">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhay31&show_icons=true&hide_border=true&theme=dark&title_color=20C20E&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="Abhay's GitHub Stats"/>
+  <a href="https://github.com/abhaysh3101">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhaysh3101&show_icons=true&hide_border=true&theme=dark&title_color=20C20E&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="Abhay's GitHub Stats"/>
   </a>
-  <a href="https://github.com/Abhay31">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhay31&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=20C20E&langs_count=8&layout=compact&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Abhay31">
-    <img width="70%" src="https://github-readme-streak-stats-virresh.vercel.app/?user=Abhay31&show_icons=true&theme=dark&hide_border=true&background=000000&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="Abhay's GitHub Streak"/>
+  <a href="https://github.com/abhaysh3101">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhaysh3101&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=20C20E&langs_count=8&layout=compact&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Abhay31">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhay31&theme=darkhub&no-frame=true" alt="GitHub Trophies"/>
+  <a href="https://github.com/abhaysh3101">
+    <img width="70%" src="https://github-readme-streak-stats-virresh.vercel.app/?user=abhaysh3101&show_icons=true&theme=dark&hide_border=true&background=000000&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="Abhay's GitHub Streak"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/abhaysh3101">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhaysh3101&theme=darkhub&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </div>
 
@@ -196,17 +196,17 @@
   <a href="https://twitter.com/abhaysh3101" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/Abhay31" target="_blank">
+  <a href="https://github.com/abhaysh3101" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <div align="center">
   <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lzemg5b2Vhd21xbXdjMGF2aXhkd2NieDQ3emQyYXIycHJncDlrayZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhaysh3101&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
 <div align="center">
-  <p>Built by <a href="https://github.com/Abhay31">Abhay Sharma</a></p>
+  <p>Built by <a href="https://github.com/abhaysh3101">Abhay Sharma</a></p>
 </div>
