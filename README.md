@@ -37,81 +37,176 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&show_icons=true&locale=en&layout=compact" alt="Abhay31" /></p> -->
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhay Sharma</h1>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&width=550&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Architect;Generative+AI+%26+LLM+Explorer;Competitive+Programmer"></a>
+</p>
+
+<table width="100%" border="0" style="border: none; padding: 10px;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
+      <p align="justify">
+        <b>Hello there!</b> I'm <b>Abhay Sharma</b>, a passionate Full Stack Software Developer from India. 
+        I focus on building scalable web architectures and exploring AI/ML workflows to create practical, production-ready applications. 
+        My technical path covers Full-Stack Engineering (MERN & Next.js), Data Structures & Algorithms, and AI Integration.
+      </p>
+    </td>
+    <td style="vertical-align: top;" align="center">
+      <img src="https://i.makeagif.com/media/8-18-2023/tuSsml.gif" width="300" alt="Coding animation">
+    </td>
+  </tr>
+</table>
+
+<h3 align="center" style="margin-top: 15px;">
+  <b><i>❝ Turning ideas into clean, functional, and scalable systems. ❞</i></b>
+</h3>
+
+---
+
+### About Me 🧑
+
+- 🚀 Full-Stack Developer specializing in modern JavaScript/TypeScript ecosystems
+- 🔭 Currently building with **Next.js**, **MERN Stack**, and exploring **LLM APIs**
+- 💡 Passionate about Problem Solving, Data Structures, and Clean Code Architecture
+- 👯 Open to collaborations on Full-Stack, Open Source, and AI-driven projects
+- 📄 View my experience: <a href="https://drive.google.com/file/d/1VEq-O4FxQJ0nMSMhpl7v6-uQRujTEwF3/view?usp=sharing" target="_blank"><b>Resume 🔗</b></a>
+
+---
+
+<details open>
+<summary>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technology Stack</b>
+</summary>
+<br>
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Languages & Core</h4>
+      <p>
+        <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></a></code>
+        <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"></a></code>
+        <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"></a></code>
+        <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a></code>
+      </p>
+      <h4>Frontend & UI</h4>
+      <p>
+        <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"></a></code>
+        <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></a></code>
+        <code><a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"></a></code>
+        <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></a></code>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Backend & Databases</h4>
+      <p>
+        <code><a href="https://nodejs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></a></code>
+        <code><a href="https://expressjs.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></a></code>
+        <code><a href="https://mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></a></code>
+        <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></a></code>
+        <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></a></code>
+      </p>
+      <h4>Tools & AI Integration</h4>
+      <p>
+        <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></a></code>
+        <code><a href="https://github.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"></a></code>
+        <code><a href="https://www.postman.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></a></code>
+        <code><a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></a></code>
+        <code><a href="https://openai.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI"></a></code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> <b>Competitive Programming & Solved Stats</b>
+</summary>
+<br>
+
 <div align="center">
-  <h1>Hi there, I'm Abhay Sharma 👋</h1>
-  <p><b>Full Stack Web Developer &bull; AI Enthusiast &bull; Problem Solver</b></p>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Architect;Exploring+Generative+AI+%26+LLMs;Active+Competitive+Programmer" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://linkedin.com/in/abhaysh3101" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/abhaysh3101" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:abhaysh3101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1VEq-O4FxQJ0nMSMhpl7v6-uQRujTEwF3/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://leetcode.com/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://leetcode.com/abhay_9839" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/abhay_9839?theme=dark&font=Fira%20Code" alt="LeetCode Stats" width="48%" />
+  </a>
+  <a href="https://codeforces.com/profile/abhay_9839" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abhay_9839&theme=tokyonight" alt="Codeforces Stats" width="48%" />
+  </a>
+</div>
+
+</details>
+
 ---
 
-### 👨‍💻 About Me
+<details open>
+<summary>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Analytics"/> <b>GitHub Analytics</b>
+</summary>
+<br>
 
-- 🌐 Based in **India**
-- 🌱 Currently mastering **Next.js**, **Full Stack Architecture**, and **AI Integration**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Prompt Engineering**
-- ⚡ Fun fact: **Turning ideas into scalable, full-stack applications**
+<div align="center">
+  <a href="https://github.com/Abhay31">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhay31&show_icons=true&hide_border=true&theme=dark&title_color=20C20E&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="Abhay's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Abhay31">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhay31&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=20C20E&langs_count=8&layout=compact&hide_border=true" alt="Top Languages"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Abhay31">
+    <img width="70%" src="https://github-readme-streak-stats-virresh.vercel.app/?user=Abhay31&show_icons=true&theme=dark&hide_border=true&background=000000&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="Abhay's GitHub Streak"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Abhay31">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhay31&theme=darkhub&no-frame=true" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+</details>
 
 ---
 
 <div align="center">
+  <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhhNTY0MmQwMDNmNDQ0MWYwNGYwODI3ZDNkODU1MGM5OWFkYTQxYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jnhXd7KT8UTk5WIgiV/giphy.gif" width="30px"> Connect With Me </h3>
 
-### 🏆 Coding Profiles & Problems Solved
+  <a href="https://linkedin.com/in/abhaysh3101" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhaysh3101@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/abhaysh3101" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/Abhay31" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-<!-- Quick Profile Links with Real-Time Badges -->
-<a href="https://leetcode.com/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a1a&color=FFA116&label=LeetCode%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay_9839&logo=leetcode" alt="LeetCode Solved" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.codechef.com/users/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-<a href="https://codeforces.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-<a href="https://www.hackerrank.com/profile/abhay_9839" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Solved-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<div align="center">
+  <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lzemg5b2Vhd21xbXdjMGF2aXhkd2NieDQ3emQyYXIycHJncDlrayZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<br/><br/>
-
-<!-- Detailed Problem Solving Breakdown Cards -->
-<a href="https://leetcode.com/abhay_9839" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/abhay_9839?theme=dark&font=Fira%20Code" alt="LeetCode Card" width="48%" />
-</a>
-<a href="https://codeforces.com/profile/abhay_9839" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=abhay_9839&theme=tokyonight" alt="Codeforces Card" width="48%" />
-</a>
-
-<br/><br/>
-
-### 🛠️ Tech Stack & AI Tools
-
-<!-- Core Development Stack -->
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,java,tailwind,bootstrap,git,github,postman,vscode&perline=7" alt="Tech Stack" />
-
-<br/><br/>
-
-<!-- AI & Intelligence Badges -->
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-
-<br/><br/>
-
-### 📊 GitHub Activity & Metrics
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhay31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Abhay31&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats-virresh.vercel.app?user=Abhay31&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-
+<br>
+<div align="center">
+  <p>Built by <a href="https://github.com/Abhay31">Abhay Sharma</a></p>
 </div>
